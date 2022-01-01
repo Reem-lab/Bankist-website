@@ -16,12 +16,6 @@
 - Frameworks: _**N/A**_
 - Technologies used: _**GIT, GITHUB, LINTERS**_
 
-
-## Live Demo
-
-[See My project Live here](https://reem-lab.github.io/CapstoneProject/)
-
-
 ## Authors
 
 <!-- Only Change Username for Different Accounts -->
