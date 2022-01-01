@@ -6,7 +6,8 @@
 
 # UNICEF'S ANNUAL HUMAN SUPPORT CONFERENCE
 
-> .This project is a Bankist website build with HTML&css , Html5 &css5, JavaScript .
+> .This project is a Bankist website For banking works and credits and Show to you Types of loan and So on
+and you can open an account from this website. 💵
 
 <img src="img/Capture.PNG" width="100%" />
 
